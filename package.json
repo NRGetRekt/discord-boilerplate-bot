@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/NRGetRekt/discord-boilerplate-bot/issues"
   },
-  "homepage": "https://github.com/NRGetRet/discord-boilerplate-bot#readme",
+  "homepage": "https://github.com/NRGetRekt/discord-boilerplate-bot#readme",
   "dependencies": {
     "@discordjs/builders": "^0.13.0",
     "@discordjs/rest": "^0.4.1",
