@@ -1,0 +1,10 @@
+{
+    "MESSAGES_BEFORE_SUS": "3",
+    "SECONDS_FROM_FIRST_MESSAGE": "30",
+
+    "SUSLINKS": [
+        "pandaq-mint.net",
+        "discrod-gifting.com"
+    ]
+    
+}
